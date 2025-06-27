@@ -1,3 +1,13 @@
+*.txt
+resultados
+*.odt
+guion-prac3.md
+notas-practica-3.md
+*.zip
+pyspark_clasificacion.py
+dataset
+session9
+sesionX
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
